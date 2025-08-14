@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohandharia12
-- 👀 I’m interested in Full Stack Web Development & Python
-- 🌱 I’m currently learning in Third Year of Computer Engineering in B.E>
+- 👀 I’m interested in Full Stack Web Development & Python & also in Data Science Domain
+- 🌱 I’m currently learning in Final Year of Computer Engineering in B.E>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 😄 Pronouns: ...
